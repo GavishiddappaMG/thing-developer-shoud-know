@@ -15,9 +15,11 @@ In case of both Server Side or Client Side HTML generation, keeping one componen
 
 
 #DRY in CSS
-to keep CSS clean and DRY, There are different approaches to keep CSS sane i.e. modular and maintainable like BEM (Block Element Modifier), OOCSS (Object Oriented CSS), Atomic CSS etc. These methodologies will provide a way to create css without being dependent on the structure or content very much.
+
+To keep CSS clean and DRY, There are different approaches to keep CSS sane i.e. modular and maintainable like BEM (Block Element Modifier), OOCSS (Object Oriented CSS), Atomic CSS etc. These methodologies will provide a way to create css without being dependent on the structure or content very much.
 
 **Example for BEM**
+
 ```
 /* Block component */
 .btn {}
