@@ -7,11 +7,11 @@ These principles, when combined together, makes it easy for programmers to devel
 
 **S.O.L.I.D Stands For:**
 
-. S - Single responsibility Principle.
-. O - Open-Closed Principle
-. L - Liskov substitution Principle
-. I - Interface segregation principle
-. D - Dependency inversion principle
+    * S - Single responsibility Principle.
+    * O - Open-Closed Principle
+    * L - Liskov substitution Principle
+    * I - Interface segregation principle
+    * D - Dependency inversion principle
 
 
 Single Responsibility Principle
